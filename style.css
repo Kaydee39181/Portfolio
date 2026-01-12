@@ -382,6 +382,12 @@ footer {
   .section {
     padding: 60px 20px;
   }
+
+  .social-links a {
+    width: 44px;
+    height: 44px;
+    font-size: 1.3rem;
+  }
 }
 
 @media (max-width: 480px) {
